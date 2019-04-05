@@ -1,0 +1,21 @@
+{
+  "name": "node-mi-flora-scrapper",
+  "version": "1.0.0",
+  "description": "node mi flora realtime and history reader",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "noble": "^1.9.1"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Miguel G. Sanguino<sanguino@me.com>",
+  "license": "ISC"
+}
